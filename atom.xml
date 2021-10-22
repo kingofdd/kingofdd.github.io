@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kingofdd</title>
+  
+  <subtitle>江羽的博客</subtitle>
+  <link href="https://kingofdd.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://kingofdd.github.io/"/>
+  <updated>2021-10-21T05:14:20.978Z</updated>
+  <id>https://kingofdd.github.io/</id>
+  
+  <author>
+    <name>江羽</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文章测试</title>
+    <link href="https://kingofdd.github.io/2021/10/21/wen-zhang-ce-shi/"/>
+    <id>https://kingofdd.github.io/2021/10/21/wen-zhang-ce-shi/</id>
+    <published>2021-10-21T04:38:46.000Z</published>
+    <updated>2021-10-21T05:14:20.978Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;文章测试&quot;&gt;&lt;a href=&quot;#文章测试&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="blog" scheme="https://kingofdd.github.io/tags/blog/"/>
+    
+    <category term="test" scheme="https://kingofdd.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://kingofdd.github.io/2021/10/20/hello-world/"/>
+    <id>https://kingofdd.github.io/2021/10/20/hello-world/</id>
+    <published>2021-10-20T12:01:30.016Z</published>
+    <updated>2021-10-20T12:01:30.016Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
